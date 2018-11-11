@@ -1,3 +1,4 @@
 zipline
 pipeline_live
 pylivetrader
+alpaca-trade-api
